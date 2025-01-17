@@ -1,0 +1,10 @@
+git log --oneline 
+
+git checkout master
+
+git branch -d branch name   to delete branch
+
+git checkout -b branch_name   creat garxa
+
+git branch   ==> says kun branch ma xam 
+
